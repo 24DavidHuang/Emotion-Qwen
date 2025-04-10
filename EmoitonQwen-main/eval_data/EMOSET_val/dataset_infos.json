@@ -1,0 +1,13 @@
+{
+    "default": {
+        "features": {
+            "id": {"_type": "Value", "dtype": "string"}, 
+            "answers": {"_type": "Value", "dtype": "string"}, 
+            "question": {"_type": "Value", "dtype": "string"}, 
+            "image": {"_type": "Image", "dtype": "image"}
+        }, 
+        "splits": {
+            "validation": {"name": "validation", "dataset_name": "emoset"}
+        }
+    }
+}

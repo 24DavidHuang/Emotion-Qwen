@@ -1,0 +1,59 @@
+datasets:
+
+  - name: mmbench
+    data_path: path/to/your/mmbench-en
+    split: dev
+
+  - name: mme
+    data_path: path/to/your/MME
+    split: test
+  
+  - name: pope
+    data_path: path/to/your/POPE
+    split: test
+
+  - name: seedbench
+    data_path: path/to/your/SEEDBench
+    split: test
+
+  - name: scienceqa
+    data_path: path/to/your/ScienceQA
+    split: test
+
+  - name: textvqa
+    data_path: path/to/your/TextVQA
+    split: validation
+
+  - name: vqav2
+    data_path: path/to/your/VQAv2
+    split: validation
+
+  - name: emoset
+    data_path: /path/to/EMOSET_val
+
+models:
+
+  - name: emotion_qwen
+    model_path: /path/to/EmotionQwen
+
+  - name: minicpm_v
+    model_path: /path/to/MiniCPM-V-2_6
+
+  - name: qwen_vl
+    model_path: /path/to/Qwen-VL-Chat
+
+  - name: qwen2_vl
+    model_path: /path/to/Qwen2-VL-7B-Instruct
+
+  - name: llava_model
+    model_path: /path/to/llava-v1.5-7b
+
+  - name: instructblip
+    model_path: /path/to/instructblip-vicuna-13b
+
+  - name: deepseek_vl
+    model_path: /path/to/deepseek-vl-7b-base
+
+
+# cd ./EmotionQwen-main
+# CUDA_VISIBLE_DEVICES=0,1 python -m general_benchmarks.evaluate --config general_benchmarks.yaml
