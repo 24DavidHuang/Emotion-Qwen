@@ -273,7 +273,15 @@ This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE
 If you find Emotion-Qwen useful to you, please consider giving a :star: and citing:
 
 ```bibtex
-
+@misc{huang2025emotionqwentraininghybridexperts,
+      title={Emotion-Qwen: Training Hybrid Experts for Unified Emotion and General Vision-Language Understanding}, 
+      author={Dawei Huang and Qing Li and Chuan Yan and Zebang Cheng and Yurong Huang and Xiang Li and Bin Li and Xiaohui Wang and Zheng Lian and Xiaojiang Peng},
+      year={2025},
+      eprint={2505.06685},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM},
+      url={https://arxiv.org/abs/2505.06685}, 
+}
 ``` -->
 
 ## Acknowledgement
