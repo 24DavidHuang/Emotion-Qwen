@@ -268,7 +268,7 @@ python merge_lora.py
 
 This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for details.
 
-<!-- ## Citation
+## Citation
 
 If you find Emotion-Qwen useful to you, please consider giving a :star: and citing:
 
@@ -282,7 +282,7 @@ If you find Emotion-Qwen useful to you, please consider giving a :star: and citi
       primaryClass={cs.MM},
       url={https://arxiv.org/abs/2505.06685}, 
 }
-``` -->
+```
 
 ## Acknowledgement
 
