@@ -21,6 +21,7 @@ Welcome to the official repository of Emotion-Qwen!
 ## News
 [2025.03.27] 🔥🔥🔥 We have released our code on Github.  
 [2025.03.29] 🔥🔥🔥 We shared our pre-trained version of Emotion-Qwen on the Google Cloud Drive, follow this [link](https://drive.google.com/file/d/1o8A_NtKBKUzMGdLXvHSFQb-jaD4nxCf_/view?usp=sharing) to download.
+[2026.08.12] 🔥🔥🔥 We shared our VER dataset on the Google Cloud Drive, follow this [link]([https://drive.google.com/file/d/1o8A_NtKBKUzMGdLXvHSFQb-jaD4nxCf_/view?usp=sharing](https://drive.google.com/file/d/11lcP6taNABaRV4l1hyaHd7X3MdV2tdYK/view?usp=sharing)) to download.
 
 ## Detailed Example of Emotion-Qwen
 
